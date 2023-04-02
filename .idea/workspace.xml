@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="881aa6c0-0aaa-4bcb-a619-3c60ed9bd1f1" name="Changes" comment="123">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/ReversingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver2/ReversingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver3/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver3/MAin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/PrintMetod/IPrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/PrintMetod/IPrintArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/PrintMetod/PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/PrintMetod/PrintArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/PrintMetod/presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/PrintMetod/presenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/Heapsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/Heapsort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/ISortMetods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/ISortMetods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/InsertionSort_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/InsertionSort_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
