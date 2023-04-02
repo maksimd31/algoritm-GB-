@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="881aa6c0-0aaa-4bcb-a619-3c60ed9bd1f1" name="Changes" comment="" />
+    <list default="true" id="881aa6c0-0aaa-4bcb-a619-3c60ed9bd1f1" name="Changes" comment="123">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver1/ReversingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver2/ReversingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver3/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver3/MAin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/ver4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/PrintMetod/IPrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/PrintMetod/IPrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/PrintMetod/PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/PrintMetod/PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/PrintMetod/presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/PrintMetod/presenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/Heapsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/Heapsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/ISortMetods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/ISortMetods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/InsertionSort_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/InsertionSort_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Version_2NEW/SortMetod/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/SortMetod/SelectionSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NmfxwyZM9uGc3WsgAp0Kp98l06" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +58,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/imacson/Desktop/untitled folder/algoritm-GB-/src",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Version_2NEW.homeWork3.ver1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +81,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680274429235</updated>
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1680274554557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680274554557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
 </project>

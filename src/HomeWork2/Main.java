@@ -1,8 +1,8 @@
-package Version_2NEW;
+package HomeWork2;
 
-import Version_2NEW.PrintMetod.IPrintArray;
-import Version_2NEW.PrintMetod.PrintArray;
-import Version_2NEW.SortMetod.*;
+import HomeWork2.PrintMetod.IPrintArray;
+import HomeWork2.PrintMetod.PrintArray;
+import HomeWork2.SortMetod.*;
 
 
 public class Main {
@@ -59,6 +59,15 @@ public class Main {
         selectionSort.sortMetodAlgoritms(arr);
 //        iPrintArray.printArray(arr);
         System.out.println("==================================================================");
-    }
 
+
+        //homeWork#3
+//        System.out.println("Разворот списка из полученного массива");
+//        IreservetList ireservetList = new homework3();
+//        ireservetList.hw3(arr);
+//        iPrintArray.printArray(arr);
+//        System.out.println("==================================================================");
+
+    }
 }
+

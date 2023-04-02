@@ -1,8 +1,8 @@
-package Version_2NEW.SortMetod;
+package HomeWork2.SortMetod;
 
 
-import Version_2NEW.PrintMetod.IPrintArray;
-import Version_2NEW.PrintMetod.PrintArray;
+import HomeWork2.PrintMetod.IPrintArray;
+import HomeWork2.PrintMetod.PrintArray;
 
 public class InsertionSort_2 implements ISortMetods {
     /**

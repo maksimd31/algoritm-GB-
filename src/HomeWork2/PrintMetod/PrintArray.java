@@ -1,4 +1,4 @@
-package Version_2NEW.PrintMetod;
+package HomeWork2.PrintMetod;
 
 public class PrintArray implements IPrintArray {
     /**
