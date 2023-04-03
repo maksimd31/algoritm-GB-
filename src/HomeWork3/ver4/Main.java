@@ -70,9 +70,9 @@ public class Main {
             };
         }
 
-        private static class ListItem<T> {
-            T data;
-            ListItem<T> next;
+        public static class ListItem<T> {
+            public T data;
+            public ListItem<T> next;
         }
 
         public boolean isEmpty() {
